@@ -127,7 +127,7 @@ export const DATA = {
     {
       title: "Rekall",
       href: "https://prod-rekall-fslh.vercel.app/",
-      dates: "June 2023 - Present",
+      dates: "March 2025 - May 2025",
       active: true,
       description:
         "Rekall is a full-stack web application that enables users to save, organize, and retrieve content from X (Twitter) posts and YouTube videos by pasting their URLs, storing them in a personalized content library for easy recall. It features secure JWT-based authentication with bcrypt password hashing, protected routes, and personal libraries for each user. The app supports tagging, categorizing, and searching saved content, with a responsive React + TypeScript frontend styled using TailwindCSS, offering dark mode, optimistic UI updates, and efficient API communication via Axios. On the backend, a Node.js + Express RESTful API manages content with authentication, validation, and error-handling middleware, while MongoDB + Mongoose store user data and content with well-structured schemas.",
@@ -157,7 +157,7 @@ export const DATA = {
     {
       title: "Invoice Flow",
       href: "https://billmate-tau.vercel.app/",
-      dates: "April 2023 - September 2023",
+      dates: "August 2025 - September 2025",
       active: true,
       description:
         "InvoiceFlow is a streamlined invoice management system built with Next.js and TypeScript, designed to help freelancers, entrepreneurs, and small businesses manage clients and invoices with ease—generating professional PDF invoices in under a minute. It uses a modern stack with Next.js + TypeScript on the frontend, styled via Tailwind CSS / CSS modules, and leverages Prisma for database interactions. PDF generation is handled using tools like react-pdf, jspdf, or server-side HTML-to-PDF rendering, while development utilities such as ESLint, PostCSS, and TypeScript configs ensure clean, maintainable, and production-ready code.",
