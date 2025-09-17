@@ -93,6 +93,38 @@ export const DATA = {
   ],
   projects: [
     {
+  title: "AI Headshots",
+  href: "https://ai-headshots-dt9y.vercel.app/",
+  dates: "June 2025 - July 2025",
+  active: true,
+  description:
+    "AI Headshots is a SaaS application that generates professional LinkedIn-ready headshots in less than 60 seconds. Built with Next.js and TypeScript, it integrates the Gemini API to transform casual photos into high-quality, AI-enhanced portraits. The app features secure Supabase authentication, efficient image handling with Supabase storage, and a modern, minimal UI/UX for seamless user experience. This was my third SaaS project, where I developed both frontend and backend, delivering a fully functional, production-ready product.",
+  technologies: [
+    "Next.js",
+    "TypeScript",
+    "Gemini API",
+    "Supabase Auth",
+    "Supabase Storage",
+    "TailwindCSS",
+    "Shadcn UI"
+  ],
+  links: [
+    {
+      type: "Live",
+      href: "https://ai-headshots-dt9y.vercel.app/",
+      icon: <Icons.globe className="size-3" />,
+    },
+    {
+      type: "Github - Private Repo",
+      href: "Private Repo",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "",
+  video: "",
+},
+
+    {
       title: "Image Magica",
       href: "https://imagemagic-alpha.vercel.app/",
       dates: "May 2025 - June 2025",
